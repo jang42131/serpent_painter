@@ -1,0 +1,12 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black; /* 배경을 검은색으로 설정 */
+}
+
+.centered img {
+    width: 30%;
+    /* height: 70%;  원하는 경우 height도 조정할 수 있음 */
+}
